@@ -15,8 +15,3 @@ desktop.ini
 /vendor
 composer.lock
 
-/materiaalit
-/materiaalit/vm
-/config/config.yml
-
-testpage.md
